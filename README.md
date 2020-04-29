@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First Order Motion Model for Image Animation
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
@@ -171,3 +172,7 @@ Citation:
   year = {2019}
 }
 ```
+=======
+# first-order-motion-model
+Neural net
+>>>>>>> fb38ffcd9b07b4724da56f3757264dca3c918e2b
